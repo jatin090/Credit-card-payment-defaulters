@@ -23,3 +23,6 @@ Recall is the best accuracy metrics here, because if the algorithm will not dete
 
 Random Forest with SMOT gives the maximum Recall of 83% in this case
 
+You can check the presentation file for this project in my repository or visit 
+https://github.com/jatin090/Project-Bank-defaulters/blob/main/Bank%20default%20prediction.pdf
+
