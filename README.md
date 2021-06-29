@@ -1,9 +1,11 @@
-# Project-Bank-defaulters
+# Project-Bank-defaulters, with power of trees
+
+<img src="https://github.com/jatin090/Project-Bank-defaulters/blob/main/0_oLeswCbrUfNEUwAz.gif" width="70%"/>
 
 ### I did some Exploratory Data Analysis, in a good manner and used diferent classification algorithms for training
 ### Following are some conclusions 
 
-we have 22% defaulters in our dataset and 77% persons are non defaulters
+We have 22% defaulters in our dataset and 77% persons are non defaulters
 
 The data shows that most people are of age range 20-40 and a few only from 50-60 age group
 
