@@ -1,4 +1,4 @@
-# Project-Bank-defaulters, with power of trees
+# Credit-card-payment-defaulters, with power of trees
 
 <img src="https://github.com/jatin090/Project-Bank-defaulters/blob/main/0_oLeswCbrUfNEUwAz.gif" width="70%"/>
 
